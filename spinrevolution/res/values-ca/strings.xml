@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spin Revolution</string>
+    
+    <!--  SRGameActivity  -->
+    <string name="touch_to_start">Toca\'m</string>
+    <string name="go">GO!</string>
+    
+    <!--  SRScoreActivity  -->
+    <string name="your_score">Puntuació</string>
+    <string name="best_score">Millor puntuació!</string>
+    <string name="best">Millor: </string>
+    <string name="wallet">Punts: </string>
+    <string name="share_title">Compartir via</string>
+    <string name="dialog_survey_title">Enquesta no disponible ara</string>
+    <string name="dialog_survey_message">L\'enquesta no es troba disponible ara. Provi-ho més tard.</string>
+    <string name="share_message_A">He aconseguit </string>
+    <string name="share_message_B"> punts a #SpinRevolution. Descarrega #SpinRevolution, és genial!</string>
+    <string name="tapToBuy">Prem per comprar</string>
+    <string name="needHelp">Vols ajuda?</string>
+    
+    <!--  SRPowerUPMenu  -->
+    <string name="points">punts</string>
+    <string name="buy">BUY</string>
+    <string name="combo_title">Combo x5</string>
+    <string name="combo_description">Aconsegueix un combo x5 i multiplica els teus punts.</string>
+    <string name="extra_title">Cercle extra</string>
+    <string name="extra_description">Aconsegueix un cercle perdut i torna\'l a jugar.</string>
+    <string name="immu_title">Immunitat</string>
+    <string name="immu_description">Torna\'t immune, així no perdràs cap cercle.</string>
+    
+    <!--  SRPointsMenu  -->
+    <string name="points_title">Compra punts</string>
+    <string name="points_description">Aconsegueix punts per a comprar power-ups!</string>
+    
+    <!--  SRPopUPMenu  -->
+    <string name="games_title">Seleccioni una acció</string>
+    <string name="games_achievements">Assoliments</string>
+    <string name="games_leaderboards">Taulers de classificació</string>
+    
+    <!--  SRTutorial  -->
+    <string name="tutorial_1">Segueix el color de dalt arrossegant el dit</string>
+    <string name="tutorial_2">Mantenint el dit al color correcte guanyaràs punts i combos</string>
+    <string name="tutorial_3">Utilitza\'ls per aconseguir més punts i véncer els teus amics!</string>
+    <string name="tutorial_4">Aquí pots aconseguir més powerups i comprar punts adicionals</string>
+
+</resources>

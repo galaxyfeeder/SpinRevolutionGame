@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_id">791553235288</string>
+
+    <string name="achievement_score100">CgkI2LL_4YQXEAIQAQ</string>
+    <string name="achievement_score300">CgkI2LL_4YQXEAIQAg</string>
+    <string name="achievement_score500">CgkI2LL_4YQXEAIQAw</string>
+    <string name="achievement_score1000">CgkI2LL_4YQXEAIQBA</string>
+    <string name="achievement_score2000">CgkI2LL_4YQXEAIQBQ</string>
+    <string name="achievement_score3000">CgkI2LL_4YQXEAIQBg</string>
+    <string name="achievement_score5000">CgkI2LL_4YQXEAIQBw</string>
+    <string name="achievement_score10000">CgkI2LL_4YQXEAIQCA</string>
+    
+    <string name="achievement_games5">CgkI2LL_4YQXEAIQCg</string>
+    <string name="achievement_games10">CgkI2LL_4YQXEAIQCw</string>
+    <string name="achievement_games50">CgkI2LL_4YQXEAIQDA</string>
+    <string name="achievement_games100">CgkI2LL_4YQXEAIQDQ</string>
+    <string name="achievement_games500">CgkI2LL_4YQXEAIQDg</string>
+    <string name="achievement_games1000">CgkI2LL_4YQXEAIQDw</string>
+
+    <string name="leaderboard">CgkI2LL_4YQXEAIQCQ</string>
+</resources>

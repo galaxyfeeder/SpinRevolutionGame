@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spin Revolution</string>
+    
+    <!--  SRGameActivity  -->
+    <string name="touch_to_start">Tocame</string>
+    <string name="go">GO!</string>
+    
+    <!--  SRScoreActivity  -->
+    <string name="your_score">Puntuación</string>
+    <string name="best_score">Mejor puntuación!</string>
+    <string name="best">Mejor: </string>
+    <string name="wallet">Puntos: </string>
+    <string name="share_title">Compartir vía</string>
+    <string name="dialog_survey_title">Encuesta no disponible ahora</string>
+    <string name="dialog_survey_message">La encuesta no se encuentra disponible ahora. Pruébalo más tarde.</string>
+    <string name="share_message_A">He conseguido </string>
+    <string name="share_message_B"> puntos en #SpinRevolution. Descaga #SpinRevolution, es genial!</string>
+    <string name="tapToBuy">Click para comprar</string>
+    <string name="needHelp">Ayuda?</string>
+    
+    <!--  SRPowerUPMenu  -->
+    <string name="points">puntos</string>
+    <string name="buy">BUY</string>
+    <string name="combo_title">Combo x5</string>
+    <string name="combo_description">Consigue un combo x5 y multiplica tus puntos.</string>
+    <string name="extra_title">Círculo extra</string>
+    <string name="extra_description">Consigue un círculo perdido y vuélvelo a jugar.</string>
+    <string name="immu_title">Inmunidad</string>
+    <string name="immu_description">Vuelvete inmune, así no perderás ningún círculo.</string>
+    
+    <!--  SRPointsMenu  -->
+    <string name="points_title">Compra puntos</string>
+    <string name="points_description">Consigue puntos para comprar power-ups!</string>
+    
+    <!--  SRPopUPMenu  -->
+    <string name="games_title">Seleccione una acción</string>
+    <string name="games_achievements">Logros</string>
+    <string name="games_leaderboards">Tablas de classificación</string>
+    
+    <!--  SRTutorial  -->
+    <string name="tutorial_1">Sigue el color de arriba arastrando el dedo</string>
+    <string name="tutorial_2">Manteniendo el dedo en el color correcto ganarás más puntos y combos</string>
+    <string name="tutorial_3">¡Usalos para conseguir aún más puntos y vencer a tus amigos!</string>
+    <string name="tutorial_4">Aquí podrás conseguir más powerups y comprar puntos adicionales</string>
+
+</resources>

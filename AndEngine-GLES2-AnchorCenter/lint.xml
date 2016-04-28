@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="WrongCall" severity="ignore">
+        <ignore path="src/org/andengine/entity/scene/menu/item/decorator/BaseMenuItemDecorator.java" />
+    </issue>
+</lint>

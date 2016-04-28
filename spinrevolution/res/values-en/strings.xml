@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spin Revolution</string>
+    
+    <!--  SRGameActivity  -->
+    <string name="touch_to_start">Touch to start</string>
+    <string name="go">GO!</string>
+    
+    <!--  SRScoreActivity  -->
+    <string name="your_score">Your score</string>
+    <string name="best_score">Best score!</string>
+    <string name="best">Best: </string>
+    <string name="wallet">Wallet: </string>
+    <string name="share_title">Share via</string>
+    <string name="dialog_survey_title">Survey not available now</string>
+    <string name="dialog_survey_message">The survey is not available now. Try it again later.</string>
+    <string name="share_message_A">I scored </string>
+    <string name="share_message_B"> points at #SpinRevolution. Download #SpinRevolution, it\'s awesome!</string>
+    <string name="tapToBuy">Tap to buy</string>
+    <string name="needHelp">Need help?</string>
+    
+    <!--  SRPowerUPMenu  -->
+    <string name="points">points</string>
+    <string name="buy">BUY</string>
+    <string name="combo_title">Point combo x5</string>
+    <string name="combo_description">Get a x5 combo and multiply your points.</string>
+    <string name="extra_title">Extra circle</string>
+    <string name="extra_description">Recover a lost circle and replay it.</string>
+    <string name="immu_title">Life immunity</string>
+    <string name="immu_description">Become immunent so you don\'t loose a circle.</string>
+    
+    <!--  SRPointsMenu  -->
+    <string name="points_title">Buy points</string>
+    <string name="points_description">Get points to buy your favourite powerups!</string>
+    
+    <!--  SRPopUPMenu  -->
+    <string name="games_title">Select an action</string>
+    <string name="games_achievements">Achievements</string>
+    <string name="games_leaderboards">Leaderboards</string>
+    
+    <!--  SRTutorial  -->
+    <string name="tutorial_1">Follow the color above dragging your finger</string>
+    <string name="tutorial_2">Keeping the finger on the right color will make you win points and combos</string>
+    <string name="tutorial_3">Use them to get more points and beat your friends!</string>
+    <string name="tutorial_4">Here you can get more powerups and also buy additional points</string>
+
+</resources>
